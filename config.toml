@@ -1,5 +1,5 @@
 # Global options
-baseurl = "https://mrl-workshop.github.io/iclr-2023"
+baseurl = "cogsci-interpretability.github.io"
 canonifyurls = true
 languagecode = "en"
 theme = "mrl-iclr-2023-theme"
@@ -8,11 +8,11 @@ disableKinds = ["taxonomyTerm"]
 # Params that are used in <head>
 [params]
   supertitle = "First Workshop on"
-  title = "Multimodal Representation Learning"
-  subtitle = "May 5 @ ICLR 2023"
-  author = "Adrián Javaloy, Miguel Vasco, Petra Poklukar, Yuge Shi, Imant Daunhawer, Danica Kragic, Isabel Valera"
-  description = "First Workshop on Multimodal Representation Learning (ICLR 2023)"
-  keywords = ["workshop", "multimodal representation learning"]
+  title = "Cognitive Science and AI Interpretability"
+  subtitle = "Dec. 6 @ NeurIPS 2025"
+  author = "Jenn Hu, Eric Bigelow, Ekdeep Singh Lubana, Ellie Pavlick, XXXXXX"
+  description = "First Workshop on Cognitive Science and AI Interpretability (NeurIPS 2025)"
+  keywords = ["workshop", "cognitive science", "AI interpretability"]
 
 # Options for Markdown renderer
 [markup.goldmark.renderer]
