@@ -1,6 +1,6 @@
 ---
 layout: home
-background: "/assets/background.jpg"
+background: "/assets/background.png"
 ---
 
 # Rationale
