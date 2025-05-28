@@ -41,24 +41,17 @@ title: "Organizers"
         <a href="https://cocolab.stanford.edu/ndg" target="_blank">Noah Goodman</a>
     </div>
 </div>
-<!-- <script>
-  var ul = document.querySelector('div.list-of-people');
-  for (var i = ul.children.length; i >= 0; i--) {
-      ul.appendChild(ul.children[Math.random() * i | 0]);
-  }
-</script> -->
 
 
 ## Contact
 
 For any questions or comments, please contact us at <coginterp@gmail.com>.
 
----
+<!-- ---
 
 # Acknowledgements
 
-We acknowledge and greatly appreciate the help of all reviewers and
-members of the program committee who made this workshop possible.
+We acknowledge and greatly appreciate the help of all reviewers and members of the program committee who made this workshop possible. -->
 
 
 

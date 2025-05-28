@@ -6,34 +6,37 @@ title: "Invited Speakers"
 
 <div class="list-of-people">
     <div class="person">
-        <td><img src="/speakers/siddharth.png"></td>
-        <td><a href="https://homepages.inf.ed.ac.uk/snaraya3/" target="_blank">Siddharth N.</a></td>
+        <td><img src="/speakers/jay.jpeg"></td>
+        <td><a href="https://web.stanford.edu/~jlmcc/" target="_blank">James McClelland</a></td>
     </div>
     <div class="person">
-        <td><img src="/speakers/zeynep.jpg"></td>
-        <td><a href="https://www.eml-unitue.de/people/zeynep-akata" target="_blank">Zeynep Akata</a></td>
+        <td><img src="/speakers/chris.jpg"></td>
+        <td><a href="https://stanford.edu/~cgpotts/" target="_blank">Christopher Potts</a></td>
     </div>
     <div class="person">
-        <td><img src="/speakers/arsha.jpeg"></td>
-        <td><a href="https://a-nagrani.github.io/" target="_blank">Arsha Nagrani</a></td>
+        <td><img src="/speakers/stephanie.jpeg"></td>
+        <td><a href="https://scholar.google.com/citations?user=bXOt49QAAAAJ" target="_blank">Stephanie Chan</a></td>
     </div>
     <div class="person">
-        <td><img src="/speakers/paul.jpg"></td>
-        <td><a href="https://www.cs.cmu.edu/~pliang/" target="_blank">Paul Pu Liang</a></td>
+        <td><img src="/speakers/mariya.jpg"></td>
+        <td><a href="https://mtoneva.com/" target="_blank">Mariya Toneva</a></td>
     </div>
     <div class="person">
-        <td><img src="/speakers/kristen.jpg"></td>
-        <td><a href="https://www.cs.utexas.edu/users/grauman/" target="_blank">Kristen Grauman</a></td>
+        <td><img src="/speakers/ari.jpg"></td>
+        <td><a href="https://ariholtzman.com/" target="_blank">Ari Holtzman</a></td>
+    </div>
+    <div class="person">
+        <td><img src="/speakers/sydney.jpg"></td>
+        <td><a href="https://sites.google.com/site/sydneymlevine/" target="_blank">Sydney Levine</a></td>
     </div>
 </div>
-<script>
-  var ul = document.querySelector('div.list-of-people');
-  for (var i = ul.children.length; i >= 0; i--) {
-      ul.appendChild(ul.children[Math.random() * i | 0]);
-  }
-</script>
 
 
+
+< Speaker bios to be added soon >
+
+
+<!-- 
 <div id="bio-zeynep">
 
   ## Zeynep Akata
@@ -138,3 +141,4 @@ title: "Invited Speakers"
   robust, generalisable, and interpretable AI and ML systems.
 
 </div>
+ -->
