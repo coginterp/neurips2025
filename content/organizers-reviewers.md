@@ -6,54 +6,63 @@ title: "Organizers"
 
 <div class="list-of-people">
     <div class="person">
-        <img src="/organizing-team/adrian.jpg">
-        <a href="http://adrian.javaloy.com/" target="_blank">Adrián Javaloy</a>
+        <img src="/organizing-team/jenn.png">
+        <a href="https://jennhu.github.io" target="_blank">Jennifer Hu</a>
     </div>
     <div class="person">
-        <img src="/organizing-team/miguel.png">
-        <a href="https://www.miguelvasco.com/" target="_blank">Miguel Vasco</a>
+        <img src="/organizing-team/ekdeep.jpeg">
+        <a href="https://ekdeepslubana.github.io" target="_blank">Ekdeep Singh Lubana</a>
     </div>
     <div class="person">
-        <img src="/organizing-team/petra.jpg">
-        <a href="https://people.kth.se/~poklukar/" target="_blank">Petra Poklukar</a>
+        <img src="/organizing-team/eric.jpg">
+        <a href="https://scholar.google.com/citations?user=wpppofoAAAAJ" target="_blank">Eric Bigelow</a>
+    </div>
+    <!--  -->
+    <!-- TODO: images for each of these -->
+    <!--  -->
+    <div class="person">
+        <img src="/organizing-team/kanishk.jpeg">
+        <a href="https://www.kanishkgandhi.com" target="_blank">Kanishk Gandhi</a>
     </div>
     <div class="person">
-        <img src="/organizing-team/yuge.png">
-        <a href="https://yugeten.github.io/" target="_blank">Yuge Shi</a>
+        <img src="/organizing-team/laura.jpg">
+        <a href="https://lauraruis.github.io" target="_blank">Laura Ruis</a>
     </div>
     <div class="person">
-        <img src="/organizing-team/imant.jpg">
-        <a href="https://mds.inf.ethz.ch/team/detail/imant-daunhawer" target="_blank">Imant Daunhawer</a>
+        <img src="/organizing-team/thomas.png">
+        <a href="https://thomasfel.me" target="_blank">Thomas Fel</a>
     </div>
     <div class="person">
-        <img src="/organizing-team/danica.jpg">
-        <a href="https://www.csc.kth.se/~danik/" target="_blank">Danica Kragic</a>
+        <img src="/organizing-team/ellie.jpg">
+        <a href="https://cs.brown.edu/people/epavlick/" target="_blank">Ellie Pavlick</a>
     </div>
     <div class="person">
-        <img src="/organizing-team/isabel.png">
-        <a href="https://ivaleram.github.io/" target="_blank">Isabel Valera</a>
+        <img src="/organizing-team/noah.jpeg">
+        <a href="https://cocolab.stanford.edu/ndg" target="_blank">Noah Goodman</a>
     </div>
 </div>
-<script>
+<!-- <script>
   var ul = document.querySelector('div.list-of-people');
   for (var i = ul.children.length; i >= 0; i--) {
       ul.appendChild(ul.children[Math.random() * i | 0]);
   }
-</script>
+</script> -->
 
 
 ## Contact
 
-For any questions or comments, please contact us at <mrl.workshop.2023@gmail.com>.
+For any questions or comments, please contact us at <coginterp@gmail.com>.
 
 ---
 
 # Acknowledgements
 
-<!-- We acknowledge and greatly appreciate the help of all reviewers and
+We acknowledge and greatly appreciate the help of all reviewers and
 members of the program committee who made this workshop possible.
 
-<table class="table table-bordered table-hover table-condensed">
+
+
+<!-- <table class="table table-bordered table-hover table-condensed">
 <tbody><tr>
 <td>Abhishek Sinha</td>
 <td> Waymo</td>
@@ -254,5 +263,4 @@ members of the program committee who made this workshop possible.
 <td>Zachary Novack</td>
 <td> University of California, San Diego</td>
 </tr>
-</tbody></table>
- -->
+</tbody></table> -->
