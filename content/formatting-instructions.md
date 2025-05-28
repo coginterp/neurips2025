@@ -6,12 +6,12 @@ title: "Formatting Instructions"
 
 ## Style & Author Instructions
 
-Submissions should be formatted using the [ICLR 2023 latex template and formatting instructions](https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip). Papers must be submitted as a PDF file and there will be a strict upper limit of 4 pages for the main text, which should include all main results, figures, and tables. This page limit applies to both the initial and final camera ready version., including all main results, figures, and tables. There is no page limit for the citations, and additional appendices for supplementary details are allowed, but reviewers are not expected to take the appendices into account. 
+Submissions should be formatted using the [NeurIPS 2025 latex template and formatting instructions](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip). Papers must be submitted as a PDF file and there will be a strict upper limit of 4 pages for the main text, which should include all main results, figures, and tables. This page limit applies to both the initial and final camera ready version., including all main results, figures, and tables. There is no page limit for the citations, and additional appendices for supplementary details are allowed, but reviewers are not expected to take the appendices into account. 
 
-## Submission Link
+<!-- ## Submission Link
 
 **TODO add submission link**
-
+ -->
 
 ## Camera-Ready Revisions 
 

@@ -11,7 +11,7 @@ disableKinds = ["taxonomyTerm"]
   title = "<b>CogInterp</b>: Interpreting Cognition <br> in Deep Learning Models"
   subtitle = "Dec. 6 or 7 @ NeurIPS 2025"
   author = " TODO   "
-  description = "First Workshop on Interpreting Cognition in Deep Learning Models (ICLR 2023)"
+  description = "First Workshop on Interpreting Cognition in Deep Learning Models (NeurIPS 2025)"
   keywords = ["workshop", "AI interpretability", "cognitive science"]
 
 # Options for Markdown renderer
