@@ -32,7 +32,6 @@ The submission will be open on OpenReview](https://openreview.net/group?id=neuri
 
 Please note that it will be requested that at least one author of each submission participates in reviewing for the workshop. 
 
-We will not accept submissions that have already been accepted for publication in other venues with archival proceedings (including publications that will be presented at the main NeurIPS conference). We discourage dual submission to concurrent NeurIPS workshops. 
 
 
 ## Code of Ethics and Conduct
@@ -51,6 +50,8 @@ Submissions should be formatted using the [NeurIPS 2025 latex template and forma
 
 ## Camera-Ready Revisions 
 
-Camera-ready revisions will be possible through OpenReview. While the workshop has no official proceedings (papers will be publicly available as _non-archival_ reports through OpenReview), we strongly encourage authors to submit a revised "camera-ready" version taking reviewers' comments and suggestions into account. We suggest uploading a revised version prior to the workshop, and possibly another final version (incorporating additional feedback from the poster session and workshop) one week after the workshop. 
+Camera-ready revisions will be possible through OpenReview. While the workshop has no official proceedings (papers will be publicly available as _non-archival_ reports through OpenReview), we strongly encourage authors to submit a revised "camera-ready" version taking reviewers' comments and suggestions into account. 
+
+<!-- We suggest uploading a revised version prior to the workshop, and possibly another final version (incorporating additional feedback from the poster session and workshop) one week after the workshop.  -->
 
 

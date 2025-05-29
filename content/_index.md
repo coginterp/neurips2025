@@ -33,7 +33,11 @@ To address this gap, our goal is to bring together researchers in cognitive scie
 * **Camera-ready version:** TBA
 * **Workshop date:** December 6 or 7, 2025
 
-Contact us at <coginterp@gmail.com>. Specific dates are subject to change. 
+*Specific dates are currently estimates and are subject to change.*
+
+---
+
+Contact us at <coginterp@gmail.com>. 
 
 
 
