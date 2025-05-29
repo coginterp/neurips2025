@@ -5,11 +5,14 @@ title: "Schedule and Format"
 
 # Workshop Schedule
 
+A proposed schedule of events is given below. The program includes a mix of invited and contributed spotlight talks, as well as interactive activities such as a poster session, built-in breaks for socializing, and a panel discussion.
+
+
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
     Legend:
-    <span class="invited">invited</span> · 
-    <span class="contributed">contributed</span> ·
-    <span class="poster">poster</span> · 
+    <span class="invited">invited speakers</span> · 
+    <span class="contributed">contributed talk</span> ·
+    <span class="poster">poster session</span> · 
     <span class="break">break</span>
 </div>
 
@@ -79,7 +82,7 @@ title: "Schedule and Format"
     </tr>
     <!--  -->
     <!--  -->
-    <tr class="contributed">
+    <tr class="invited">
         <td>16:00 - 17:00</td>
         <td>Panel Discussion (with all invited speakers)</td>
         <!-- <td>Live</td> -->
