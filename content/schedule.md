@@ -5,7 +5,7 @@ title: "Schedule and Format"
 
 # Workshop Schedule
 
-A proposed schedule of events is given below. The program includes a mix of invited and contributed spotlight talks, as well as interactive activities such as a poster session, built-in breaks for socializing, and a panel discussion.
+A tentative schedule of events is given below. The program includes a mix of invited and contributed spotlight talks, as well as interactive activities such as a poster session, built-in breaks for socializing, and a panel discussion.
 
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
