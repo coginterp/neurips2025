@@ -35,7 +35,7 @@ scaling laws or learning dynamics in the lazy regime.
 
 ## Submission
 
-The submission will be open on OpenReview](https://openreview.net/group?id=neurips.cc/2025/Workshop/CogInterp) between July 5 and August 22, 2025 (midnight AoE). For all relevant dates, please see [Important Dates]({{< ref "/#dates" >}}). The formatting instructions are provided below.
+The submission will be open on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/CogInterp) between July 9 and August 15, 2025 (midnight AoE). For all relevant dates, please see [Important Dates]({{< ref "/#dates" >}}). The formatting instructions are provided below.
 
 Please note that it will be requested that at least one author of each submission participates in reviewing for the workshop. 
 
