@@ -11,7 +11,7 @@ themes.
 1. **Behavioral accounts**. What kinds of generalizations have models learned about cognitively important
 tasks? What kinds of cues, biases, or heuristics might affect a model’s performance on these tasks? What
 kind of cognitive frameworks best characterize model behaviors?
-  - <ins>Example topics within scope:</ins> Hypothesis-driven evaluations of high-level cognitive behaviors; understanding how heuristics and task demands affect model behaviors; and fitting cognitive models to deep neural network behavioral data 
+  - <ins>Example topics within scope:</ins> Hypothesis-driven evaluations of high-level cognitive behaviors [1–8]; understanding how heuristics and task demands affect model behaviors [9–15]; and fitting cognitive models to deep neural network behavioral data [16–19]
   - <ins>Example topics potentially out of scope:</ins> Evaluations of deep learning models which do not make claims about the underlying processes driving their behavior, or behavioral experiments with AI models which seek to further our understanding of the human mind, rather than our understanding of AI models
 
 <br>
@@ -19,16 +19,14 @@ kind of cognitive frameworks best characterize model behaviors?
 2. **Processing accounts**. What algorithms underlie the behaviors models exhibit when performing key
 high-level cognitive tasks? How are these algorithms implemented? How do these algorithms relate to
 behaviors expected of a rational agent performing such tasks?
-  - <ins>Example topics within scope:</ins> Using interpretability tools to understand cognitive processing algorithms; explaining how heuristic strategies interact with rule-based generalization behaviors; and behavioral investigations of algorithms underlying complex tasks
+  - <ins>Example topics within scope:</ins> Using interpretability tools to understand cognitive processing algorithms [e.g., 20–27]; explaining how heuristic strategies interact with rule-based generalization behaviors [28–31]; and behavioral investigations of algorithms underlying complex tasks [32–36].
   - <ins>Example topics potentially out of scope:</ins> Design, validation, or demonstration of interpretability tools that are directed towards identifying or explaining narrow skills that are not instrumental towards performing complex tasks (e.g., work identifying neurons activating for prominent monuments), or not motivated towards explaining model cognition (e.g., work on identifying mechanisms to refuse unsafe queries by a model).
 
 <br>
 
 3. **Learning accounts**. How do certain cognitive abilities emerge or develop across learning? What properties of the training data distribution or objective functions contribute to downstream behaviors? How does the model’s training environment relate to predispositions supported by the model’s architecture or other forms of inductive bias? Relevant perspectives from cognitive science that could help shed light on these questions include developmental psychology, learning theory, and evolutionary biology.
-  - <ins>Example topics within scope:</ins> Evaluations of learning inspired by cognitive theories; identifying models’ inductive biases; and understanding downstream effects of data distribution on behavior and generalization 
-  - <ins>Example topics potentially out of scope:</ins> Developmental accounts that do not attempt to contextualize
-cognitive theories or tools for understanding how neural networks learn their capabilities: e.g., work on
-scaling laws or learning dynamics in the lazy regime.
+  - <ins>Example topics within scope:</ins> Evaluations of learning inspired by cognitive theories  [37–40]; identifying models’ inductive biases [e.g., 41–44]; and understanding downstream effects of data distribution on behavior and generalization  [e.g., 45–50].
+  - <ins>Example topics potentially out of scope:</ins> Developmental accounts that do not attempt to contextualize cognitive theories or tools for understanding how neural networks learn their capabilities: e.g., work on scaling laws or learning dynamics in the lazy regime.
 
 
 
@@ -62,3 +60,117 @@ Camera-ready revisions will be possible through OpenReview. While the workshop h
 <!-- We suggest uploading a revised version prior to the workshop, and possibly another final version (incorporating additional feedback from the poster session and workshop) one week after the workshop.  -->
 
 
+
+
+
+# References
+
+
+
+
+<div style="line-height: 14pt;">
+<span style="font-size:10.0pt">
+
+
+[1] Roma Patel and Ellie Pavlick. “Mapping language models to grounded conceptual spaces”. In: International conference on learning representations. 2022.
+
+[2] Kanishk Gandhi et al. “Understanding social reasoning in language models with language models”. In: Advances in Neural Information Processing Systems 36 (2023), pp. 13518–13529.
+
+[3] Michael Henry Tessler et al. “AI can help humans find common ground in democratic deliberation”. In: Science 386.6719 (2024), eadq2852.
+
+[4] Laura Ruis et al. “The goldilocks of pragmatic understanding: fine-tuning strategy matters for implicature resolution by LLMs”. In: Advances in Neural Information Processing Systems 36 (2023), pp. 20827–20905.
+
+[5] Kanishk Gandhi et al. “Human-like affective cognition in foundation models”. In: arXiv preprint arXiv:2409.11733 (2024).
+
+[6] Elif Akata et al. “Playing repeated games with large language models”. In: Nature Human Behaviour (2025), pp. 1–11.
+
+[7] Siyuan Song, Jennifer Hu, and Kyle Mahowald. Language Models Fail to Introspect About Their Knowledge of Language. eprint: 2503.07513. 2025. url: https://arxiv.org/abs/2503.07513.
+
+[8] Mathis Pink et al. “Assessing Episodic Memory in LLMs with Sequence Order Recall Tasks”. In: arXiv preprint arXiv:2410.08133 (2024).
+
+[9] R. Thomas McCoy, Ellie Pavlick, and Tal Linzen. “Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference”. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. Florence, Italy: Association for Computational Linguistics, July 2019, pp. 3428–3448. doi: 10.18653/v1/P19-1334. url: https://aclanthology.org/P19-1334.
+
+[10] Andrew K Lampinen et al. “Language models, like humans, show content effects on reasoning tasks”. In: PNAS Nexus 3.7 (July 2024), pgae233. issn: 2752-6542. doi: 10.1093/pnasnexus/pgae233. url: https://doi.org/10.1093/pnasnexus/pgae233 (visited on 07/23/2024).
+
+[11] Jennifer Hu and Michael Frank. “Auxiliary task demands mask the capabilities of smaller language models”. In: First Conference on Language Modeling. 2024. url: https://openreview.net/forum?id=U5BUzSn4tD.
+
+[12] R. Thomas McCoy et al. “Embers of autoregression show how large language models are shaped by the problem they are trained to solve”. In: Proceedings of the National Academy of Sciences 121.41 (Oct. 2024). Publisher: Proceedings of the National Academy of Sciences, e2322420121. doi: 10.1073/pnas.2322420121. url: https://doi.org/10.1073/pnas.2322420121 (visited on 10/10/2024).
+
+[13] Prasann Singhal et al. “A long way to go: Investigating length correlations in rlhf”. In: arXiv preprint arXiv:2310.03716 (2023).
+
+[14] Robert Geirhos et al. “ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness”. In: International conference on learning representations. 2018.
+
+[15] Robert Geirhos et al. “Generalisation in humans and deep neural networks”. In: Advances in neural information processing systems 31 (2018).
+
+[16] Johannes A Schubert et al. “In-context learning agents are asymmetric belief updaters”. In: arXiv preprint arXiv:2402.03969 (2024).
+
+[17] Yang Xiang et al. “Language models assign responsibility based on actual rather than counterfactual contributions”. In: Proceedings of the Annual Meeting of the Cognitive Science Society. 2025.
+
+[18] William M. Hayes, Nicolas Yax, and Stefano Palminteri. “Relative Value Encoding in Large Language Models: A Multi-Task, Multi-Model Investigation”. In: Open Mind 9 (May 2025), pp. 709–725. issn: 2470-2986. doi: 10.1162/opmi_a_00209. url: https://doi.org/10.1162/opmi_a_00209 (visited on 05/28/2025).
+
+[19] Eric Bigelow et al. “In-context learning dynamics with random binary sequences”. In: The Twelfth International Conference on Learning Representations. 2024.
+
+[20] Michael Hanna and Aaron Mueller. “Incremental Sentence Processing Mechanisms in Autoregressive Transformer Language Models”. In: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). Ed. by Luis Chiruzzo, Alan Ritter, and Lu Wang. Albuquerque, New Mexico: Association for Computational Linguistics, Apr. 2025, pp. 3181–3203. isbn: 979-8-89176-189-6. url: https://aclanthology.org/2025.naacl-long.164/.
+
+[21] Sasha Boguraev, Christopher Potts, and Kyle Mahowald. Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions. eprint: 2505.16002. 2025. url: https://arxiv.org/abs/2505.16002.
+
+[22] Jennifer Hu, Michael A. Lepori, and Michael Franke. Signatures of human-like processing in Transformer forward passes. eprint: 2504.14107. 2025. url: https://arxiv.org/abs/2504.14107.
+
+[23] Tatsuki Kuribayashi et al. Large Language Models Are Human-Like Internally. eprint: 2502.01615. 2025. url: https://arxiv.org/abs/2502.01615.
+
+[24] Thomas Bush et al. “Interpreting emergent planning in model-free reinforcement learning”. In: arXiv preprint arXiv:2504.01871 (2025).
+
+[25] Michael A Lepori, Thomas Serre, and Ellie Pavlick. “Uncovering intermediate variables in transformers using circuit probing”. In: arXiv preprint arXiv:2311.04354 (2023).
+
+[26] Aryaman Arora et al. “Mechanistic evaluation of Transformers and state space models”. In: arXiv preprint arXiv:2505.15105 (2025).
+
+[27] Wentao Zhu, Zhining Zhang, and Yizhou Wang. “Language models represent beliefs of self and others”. In: arXiv preprint arXiv:2402.18496 (2024).
+
+[28] Michael Lepori et al. “Beyond the Doors of Perception: Vision Transformers Represent Relations Between Objects”. In: Advances in Neural Information Processing Systems 37 (2024), pp. 131503–131544.
+
+[29] Suraj Anand et al. “Dual process learning: Controlling use of in-context vs. in-weights strategies with weight forgetting”. In: arXiv preprint arXiv:2406.00053 (2024).
+
+[30] Laura Ruis et al. “Procedural knowledge in pretraining drives reasoning in large language models”. In: arXiv preprint arXiv:2411.12580 (2024).
+
+[31] Ekin Akyürek et al. “In-context language learning: Architectures and algorithms”. In: arXiv preprint arXiv:2401.12973 (2024).
+
+[32] Zhenghao Zhou, Robert Frank, and R. Thomas McCoy. “Is In-Context Learning a Type of Error-Driven Learning? Evidence from the Inverse Frequency Effect in Structural Priming”. In: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). Ed. by Luis Chiruzzo, Alan Ritter, and Lu Wang. Albuquerque, New Mexico: Association for Computational Linguistics, Apr. 2025, pp. 11712–11725. isbn: 979-8-89176-189-6. url: https://aclanthology.org/2025.naacllong.586/.
+
+[33] Belinda Z Li, Zifan Carl Guo, and Jacob Andreas. “(How) Do Language Models Track State?” In: arXiv preprint arXiv:2503.02854 (2025).
+
+[34] Chris Wendler et al. “Do llamas work in english? on the latent language of multilingual transformers”. In: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2024, pp. 15366–15394.
+
+[35] Mohamed El Banani et al. “Probing the 3d awareness of visual foundation models”. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024, pp. 21795–21806.
+
+[36] Core Francisco Park et al. “Iclr: In-context learning of representations”. In: arXiv preprint arXiv:2501.00070 (2024).
+
+[37] Kanishka Misra and Kyle Mahowald. “Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing AANNs”. In: Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing. Ed. by Yaser Al-Onaizan, Mohit Bansal, and Yun-Nung Chen. Miami, Florida, USA: Association for Computational Linguistics, Nov. 2024, pp. 913–929. doi: 10.18653/v1/2024.emnlp-main.53. url: https://aclanthology.org/2024.emnlp-main.53/.
+
+[38] Kanishka Misra, Julia Rayz, and Allyson Ettinger. “COMPS: Conceptual Minimal Pair Sentences for testing Robust Property Knowledge and its Inheritance in Pre-trained Language Models”. In: Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics. Ed. by Andreas Vlachos and Isabelle Augenstein. Dubrovnik, Croatia: Association for Computational Linguistics, May 2023, pp. 2928–2949. doi: 10.18653/v1/2023.eaclmain.213. url: https://aclanthology.org/2023.eacl-main.213.
+
+[39] Dylan Ebert, Chen Sun, and Ellie Pavlick. “Do Trajectories Encode Verb Meaning?” In: arXiv preprint arXiv:2206.11953 (2022).
+
+[40] Charles Lovering et al. “Evaluation beyond task performance: analyzing concepts in AlphaZero in Hex”. In: Advances in Neural Information Processing Systems 35 (2022), pp. 25992–26006.
+
+[41] Shauli Ravfogel, Yoav Goldberg, and Tal Linzen. “Studying the Inductive Biases of RNNs with Synthetic Variations of Natural Languages”. In: Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers). Minneapolis, Minnesota: Association for Computational Linguistics, June 2019, pp. 3532–3542. doi: 10.18653/v1/N19-1356. url: https://aclanthology.org/N19-1356.
+
+[42] Thomas Fel et al. “Understanding visual feature reliance through the lens of complexity”. In: Advances in Neural Information Processing Systems 37 (2024), pp. 69888–69924.
+
+[43] Michael Lepori, Thomas Serre, and Ellie Pavlick. “Break it down: Evidence for structural compositionality in neural networks”. In: Advances in Neural Information Processing Systems 36 (2023), pp. 42623–42660.
+
+[44] Dmitrii Krasheninnikov et al. “Implicit meta-learning may lead language models to trust more reliable sources”. In: arXiv preprint arXiv:2310.15047 (2023).
+
+[45] Maya Okawa et al. “Compositional abilities emerge multiplicatively: Exploring diffusion models on a synthetic task”. In: Advances in Neural Information Processing Systems 36 (2023), pp. 50173–50195.
+
+[46] Stephanie Chan et al. “Data Distributional Properties Drive Emergent In-Context Learning in Transformers”. In: Advances in Neural Information Processing Systems. Ed. by S. Koyejo et al. Vol. 35. Curran Associates, Inc., 2022, pp. 18878–18891. url: https://proceedings.neurips.cc/paper_files/paper/2022/file/77c6ccacfd9962e2307fc64680fc5acePaper-Conference.pdf.
+
+[47] Aditya Yedetore et al. “How poor is the stimulus? Evaluating hierarchical generalization in neural networks trained on child-directed speech”. In: Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Ed. by Anna Rogers, Jordan Boyd-Graber, and Naoaki Okazaki. Toronto, Canada: Association for Computational Linguistics, July 2023, pp. 9370–9393. doi: 10.18653/v1/2023.acl- long.521. url: https://aclanthology.org/2023.acl-long.521/.
+
+[48] Gautam Reddy. “The mechanistic basis of data dependence and abrupt learning in an in-context classification task”. In: arXiv preprint arXiv:2312.03002 (2023).
+
+[49] Core Francisco Park et al. “Competition Dynamics Shape Algorithmic Phases of In-Context Learning”. In: arXiv preprint arXiv:2412.01003 (2024).
+
+[50] Nicolas Zucchet et al. “How do language models learn facts? Dynamics, curricula and hallucinations”. In: arXiv preprint arXiv:2503.21676 (2025).
+
+</span>
+</div>

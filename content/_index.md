@@ -2,7 +2,6 @@
 title: "Home"
 ---
 
-# Welcome!
 
 Welcome to the first workshop on **Interpreting Cognition in Deep Learning Models**, which will take place at [**NeurIPS 2025**](https://neurips.cc/Conferences/2025) in San Diego, USA on December 6 or 7, 2025.
 
