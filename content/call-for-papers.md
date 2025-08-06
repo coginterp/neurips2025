@@ -24,7 +24,7 @@ behaviors expected of a rational agent performing such tasks?
 
 <br>
 
-3. **Learning accounts**. How do certain cognitive abilities emerge or develop across learning? What properties of the training data distribution or objective functions contribute to downstream behaviors? How does the model’s training environment relate to predispositions supported by the model’s architecture or other forms of inductive bias? Relevant perspectives from cognitive science that could help shed light on these questions include developmental psychology, learning theory, and evolutionary biology.
+3. **Developmental accounts**. How do certain cognitive abilities emerge or develop across learning? What properties of the training data distribution or objective functions contribute to downstream behaviors? How does the model’s training environment relate to predispositions supported by the model’s architecture or other forms of inductive bias? Relevant perspectives from cognitive science that could help shed light on these questions include developmental psychology, learning theory, and evolutionary biology.
   - <ins>Example topics within scope:</ins> Evaluations of learning inspired by cognitive theories  [37–40]; identifying models’ inductive biases [e.g., 41–44]; and understanding downstream effects of data distribution on behavior and generalization  [e.g., 45–50].
   - <ins>Example topics potentially out of scope:</ins> Developmental accounts that do not attempt to contextualize cognitive theories or tools for understanding how neural networks learn their capabilities: e.g., work on scaling laws or learning dynamics in the lazy regime.
 
@@ -34,6 +34,8 @@ behaviors expected of a rational agent performing such tasks?
 ## Submission
 
 The submission will be open on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/CogInterp) between July 9 and August 15, 2025 (midnight AoE). For all relevant dates, please see [Important Dates]({{< ref "/#dates" >}}). The formatting instructions are provided below.
+
+Submissions will be double-blind reviewed. Dual submissions are acceptable, including submitting to other NeurIPS workshops.
 
 Please note that it will be requested that at least one author of each submission participates in reviewing for the workshop. 
 
@@ -50,7 +52,7 @@ All participants of the workshop (including authors and reviewers) are required 
 
 ## Style & Author Instructions
 
-Submissions should be formatted using the [NeurIPS 2025 latex template and formatting instructions](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip). Papers must be submitted as a PDF file and there will be a strict upper limit of 4 pages for the main text, which should include all main results, figures, and tables. This page limit applies to both the initial and final camera-ready version. There is no page limit for the citations, and additional appendices for supplementary details are allowed, but reviewers are not expected to take the appendices into account. 
+Submissions should be formatted using the [NeurIPS 2025 latex template and formatting instructions](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip). Filling out the submission checklist is not required. Papers must be submitted as a PDF file and there will be a strict upper limit of 4 pages for the main text, which should include all main results, figures, and tables. This page limit applies to both the initial and final camera-ready version. There is no page limit for the citations, and additional appendices for supplementary details are allowed, but reviewers are not expected to take the appendices into account.
 
 
 ## Camera-Ready Revisions 
