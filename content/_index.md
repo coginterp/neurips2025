@@ -23,7 +23,7 @@ To address the gap above, our goal is to bring together researchers in cognitive
 <!-- <span class="alert">Preliminary dates, they are subject to change.</span>  -->
 
 * **Paper submission start:** July 9, 2025  (midnight AoE)
-* **Paper submission deadline**: August 15, 2025  (midnight AoE)
+* **Paper submission deadline**: August <s><span style="color: silver">15</span></s> 22, 2025  (midnight AoE)
 * **Notification to authors:** September 22, 2025  (midnight AoE)
 * **Camera-ready version:** TBA
 * **Workshop date:** December 6 or 7, 2025
