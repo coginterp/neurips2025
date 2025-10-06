@@ -4,7 +4,9 @@ Website for the Workshop on Interpreting Cognition in Deep Learning Models at Ne
 
 
 
+Template adopted from: https://github.com/MRL-Workshop/iclr-2023
 
-Website template from: https://github.com/MRL-Workshop/iclr-2023
 
+
+To host the website locally, after cloning this repo run `hugo server` in the main directory
 

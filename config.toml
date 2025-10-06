@@ -9,8 +9,8 @@ disableKinds = ["taxonomyTerm"]
 [params]
   supertitle = "First Workshop on"
   title = "<b>CogInterp</b>: Interpreting Cognition <br> in Deep Learning Models"
-  subtitle = "Dec. 6 or 7 @ NeurIPS 2025"
-  author = " TODO   "
+  subtitle = "December 7, 2025 @ NeurIPS 2025"
+  author = "CogInterp Organizers"
   description = "First Workshop on Interpreting Cognition in Deep Learning Models (NeurIPS 2025)"
   keywords = ["workshop", "AI interpretability", "cognitive science"]
 
