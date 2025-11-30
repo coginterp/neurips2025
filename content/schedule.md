@@ -22,43 +22,51 @@ A tentative schedule of events is given below. The program includes a mix of inv
         <th>Program</th>
     </tr>
     <tr>
-        <td>08:55 - 09:00</td>
+        <td>08:45 - 09:00</td>
         <td>Introduction and Opening Remarks</td>
     </tr>
     <tr class="invited">
         <td>09:00 - 09:30</td>
-        <td>Invited Talk 1</td>
+        <td>Invited Talk 1: Chris Potts</td>
     </tr>
     <tr class="invited">
         <td>09:30 - 10:00</td>
-        <td>Invited Talk 2</td>
+        <td>Invited Talk 2: Stephanie Chan</td>
     </tr>
     <tr class="contributed">
-        <td>10:00 - 10:15</td>
+        <td>10:00 - 10:10</td>
         <td>Spotlight Talk 1</td>
     </tr>
+    <tr class="contributed">
+        <td>10:10 - 10:20</td>
+        <td>Spotlight Talk 2</td>
+    </tr>
     <tr class="break">
-        <td>10:15 - 10:30</td>
+        <td>10:20 - 10:30</td>
         <td>Coffee Break</td>
     </tr>
     <!--  -->
     <!--  -->
     <tr class="invited">
         <td>10:30 - 11:00</td>
-        <td>Invited Talk 3</td>
+        <td>Invited Talk 3: Ari Holtzman</td>
     </tr>
     <tr class="invited">
         <td>11:00 - 11:30</td>
-        <td>Invited Talk 4</td>
+        <td>Invited Talk 4: Mariya Toneva</td>
     </tr>
     <tr class="contributed">
-        <td>11:30 - 11:45</td>
-        <td>Spotlight Talk 2</td>
+        <td>11:30 - 11:40</td>
+        <td>Spotlight Talk 3</td>
+    </tr>
+    <tr class="contributed">
+        <td>11:40 - 11:50</td>
+        <td>Spotlight Talk 4</td>
     </tr>
     <!--  -->
     <!--  -->
     <tr class="break">
-        <td>11:45 - 13:15</td>
+        <td>11:50 - 13:15</td>
         <td>Lunch</td>
     </tr>
     <tr class="poster">
@@ -69,11 +77,11 @@ A tentative schedule of events is given below. The program includes a mix of inv
     <!--  -->
     <tr class="invited">
         <td>14:45 - 15:15</td>
-        <td>Invited Talk 5</td>
+        <td>Invited Talk 5: Jay McClelland</td>
     </tr>
     <tr class="invited">
         <td>15:15 - 15:45</td>
-        <td>Invited Talk 6</td>
+        <td>Invited Talk 6: Sydney Levine</td>
     </tr>
     <tr class="break">
         <td>15:45 - 16:00</td>
@@ -97,6 +105,15 @@ A tentative schedule of events is given below. The program includes a mix of inv
 <div style="width: 100%; font-size: smaller; text-align: center; margin-top: 18px;">
     <em>All times are for current local time in San Diego, USA.</em>
 </div>
+
+<br>
+
+<ul>
+    <li> <b>Spotlight Talk 1</b>: Culturally transmitted color categories in LLMs reflect a learning bias toward efficient compression</li>
+    <li> <b>Spotlight Talk 2</b>: Interpretable Hybrid Neural-Cognitive Models Discover Cognitive Strategies Underlying Flexible Reversal Learning</li>
+    <li> <b>Spotlight Talk 3</b>: Inside you are many wolves: Using cognitive models to interpret value trade-offs in LLMs</li>
+    <li> <b>Spotlight Talk 4</b>: Mechanisms of Symbol Processing in Transformers</li>
+</ul>
 
 
 ## Format
