@@ -53,7 +53,7 @@ A tentative schedule of events is given below. The program includes a mix of inv
     </tr>
     <tr class="invited">
         <td>11:00 - 11:30</td>
-        <td>Invited Talk 4: Mariya Toneva</td>
+        <td>Invited Talk 4: Erin Grant</td>
     </tr>
     <tr class="contributed">
         <td>11:30 - 11:40</td>

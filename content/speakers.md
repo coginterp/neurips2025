@@ -17,9 +17,13 @@ title: "Invited Speakers"
         <td><img src="/speakers/stephanie.jpeg"></td>
         <td><a href="https://scholar.google.com/citations?user=bXOt49QAAAAJ" target="_blank">Stephanie Chan</a></td>
     </div>
-    <div class="person">
+    <!-- <div class="person">
         <td><img src="/speakers/mariya.jpg"></td>
         <td><a href="https://mtoneva.com/" target="_blank">Mariya Toneva</a></td>
+    </div> -->
+    <div class="person">
+        <td><img src="/speakers/erin.jpg"></td>
+        <td><a href="https://eringrant.github.io" target="_blank">Erin Grant</a></td>
     </div>
     <div class="person">
         <td><img src="/speakers/ari.jpg"></td>
