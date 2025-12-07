@@ -12,7 +12,7 @@ title: "Invited Speakers"
     <div class="details">
       <a href="https://web.stanford.edu/~jlmcc/" target="_blank">James McClelland</a>
       <div class="talk-title">
-        Do language models have thoughts? A cognitive neuroscientist’s perspective
+        Do Language Models have Thoughts? A Cognitive Neuroscientist’s Perspective
       </div>
     </div>
   </div>
@@ -24,7 +24,7 @@ title: "Invited Speakers"
     <div class="details">
       <a href="https://stanford.edu/~cgpotts/" target="_blank">Christopher Potts</a>
       <div class="talk-title">
-        <!-- Talk title here -->
+        Reassessing Stimulus Poverty Arguments using Causal Interpretability Methods
       </div>
     </div>
   </div>
@@ -36,24 +36,10 @@ title: "Invited Speakers"
     <div class="details">
       <a href="https://scholar.google.com/citations?user=bXOt49QAAAAJ" target="_blank">Stephanie Chan</a>
       <div class="talk-title">
-        <!-- Talk title here -->
+        Connecting Across Different Timescales of Learning in Transformers
       </div>
     </div>
   </div>
-
-  <!--
-  <div class="person">
-    <div class="photo">
-      <img src="/speakers/mariya.jpg" alt="Mariya Toneva">
-    </div>
-    <div class="details">
-      <a href="https://mtoneva.com/" target="_blank">Mariya Toneva</a>
-      <div class="talk-title">
-        <!-- Talk title here -->
-      </div>
-    </div>
-  </div>
-  -->
 
   <div class="person">
     <div class="photo">
@@ -62,7 +48,7 @@ title: "Invited Speakers"
     <div class="details">
       <a href="https://eringrant.github.io" target="_blank">Erin Grant</a>
       <div class="talk-title">
-        <!-- Talk title here -->
+        Is Representational Alignment Enough?
       </div>
     </div>
   </div>
@@ -74,7 +60,7 @@ title: "Invited Speakers"
     <div class="details">
       <a href="https://ariholtzman.com/" target="_blank">Ari Holtzman</a>
       <div class="talk-title">
-        <!-- Talk title here -->
+        Seeing Like a Language Model
       </div>
     </div>
   </div>
@@ -86,7 +72,7 @@ title: "Invited Speakers"
     <div class="details">
       <a href="https://sites.google.com/site/sydneymlevine/" target="_blank">Sydney Levine</a>
       <div class="talk-title">
-        <!-- Talk title here -->
+        Using Cognitive Models of Human Moral Judgment in AI Development
       </div>
     </div>
   </div>
