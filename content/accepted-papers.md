@@ -9,14 +9,16 @@ title: "Accepted Papers"
 <div>
 <b>Spotlight Talks</b>
 <br>
-<a href="https://openreview.net/forum?id=8BOs9HYyFe">"Interpretable Hybrid Neural-Cognitive Models Discover Cognitive Strategies Underlying Flexible Reversal Learning"</a>. Chonghao Cai, Liyuan Li, Yifei Cao, Maria K Eckstein.
+<a href="https://openreview.net/forum?id=8BOs9HYyFe">"Interpretable Hybrid Neural-Cognitive Models Discover Cognitive Strategies Underlying Flexible Reversal Learning"</a>. <a href="/slides/interp_hybrid_coginterp_present.pptx">(Slides)</a> Chonghao Cai, Liyuan Li, Yifei Cao, Maria K Eckstein.
 <br><br>
-<a href="https://openreview.net/forum?id=tqp9Cp8quj">"Mechanisms of Symbol Processing in Transformers"</a>. Paul Smolensky, Roland Fernandez, Zhenghao Zhou, Mattia Opper, Adam Davies, Jianfeng Gao.
+<a href="https://openreview.net/forum?id=tqp9Cp8quj">"Mechanisms of Symbol Processing in Transformers"</a>. <a href="/slides/Mechanisms of Symbol Processing in Transformers.pdf">(Slides)</a> Paul Smolensky, Roland Fernandez, Zhenghao Zhou, Mattia Opper, Adam Davies, Jianfeng Gao.
 <br><br>
-<a href="https://openreview.net/forum?id=kedJDTAoAd">"Culturally transmitted color categories in LLMs reflect a learning bias toward efficient compression"</a>. Nathaniel Imel, Noga Zaslavsky.
+<a href="https://openreview.net/forum?id=kedJDTAoAd">"Culturally transmitted color categories in LLMs reflect a learning bias toward efficient compression"</a>. <a href="/slides/iicll_coginterp_talk_final.pdf">(Slides)</a> Nathaniel Imel, Noga Zaslavsky.
 <br><br>
-<a href="https://openreview.net/forum?id=foAB8xC74C">"Inside you are many wolves: Using cognitive models to interpret value trade-offs in LLMs"</a>. Sonia Krishna Murthy, Rosie Zhao, Jennifer Hu, Sham M. Kakade, Markus Wulfmeier, Peng Qian, Tomer Ullman.
+<a href="https://openreview.net/forum?id=foAB8xC74C">"Inside you are many wolves: Using cognitive models to interpret value trade-offs in LLMs"</a>. <a href="/slides/many-wolves neurips coginterp.pdf">(Slides)</a> Sonia Krishna Murthy, Rosie Zhao, Jennifer Hu, Sham M. Kakade, Markus Wulfmeier, Peng Qian, Tomer Ullman.
+
 <br><br>
+
 <b>Posters</b>
 <br>
 <a href="https://openreview.net/forum?id=KTjmPDmHkQ">"Cognitive Behavior Modeling via Activation Steering"</a>. Anthony Kuang, Ahmed Ismail, Ayo Akinkugbe, Kevin Zhu, Sean O'Brien. 
@@ -131,7 +133,7 @@ title: "Accepted Papers"
 <br><br>
 <a href="https://openreview.net/forum?id=FIgoOA89K0">"Discovering Functionally Sufficient Projections with Functional Component Analysis"</a>. Satchel Grant. 
 <br><br>
-<a href="https://openreview.net/forum?id=aq2MtJ320b">"Towards Visual Simulation in Multimodal Language Models"</a>. Catherine Finegan-Dollak. 
+<a href="https://openreview.net/forum?id=aq2MtJ320b">"Towards Visual Simulation in Multimodal Language Models"</a>. <a href="https://drive.google.com/file/d/1vM03VrPfDEyQkGFv-I01gvhATK9JJyMd/view?usp=sharing"> (Video Recording) </a> Catherine Finegan-Dollak.
 <br><br>
 <a href="https://openreview.net/forum?id=qgDo0ViaDT">"RNNs reveal a new optimal stopping rule in sequential sampling for decision-making"</a>. Jialin Li, Kenway Louie, Paul W. Glimcher, Bo Shen. 
 <br><br>
